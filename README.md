@@ -7,7 +7,7 @@ Steps to install and run this application
 1. clone the repo:
 #git clone https://github.com/rohitpaniker/cpuUtil_UI.git
 
-2. cd to signzy
+2. cd to cpuUtil_UI
 
 3. npm install
 
